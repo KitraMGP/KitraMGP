@@ -14,7 +14,7 @@
 
 Minecraft国际版ID: zijing_233
 
-哔哩哔哩: zijing_233
+哔哩哔哩: [zijing_233](https://space.bilibili.com/180371610)
 
 邮箱: 3056894830@qq.com
 
