@@ -6,7 +6,7 @@
 
 |名称|描述|版本|开发状态|
 |:-:|:-:|:-:|:-:|
-|[RemoteGenius](https://github.com/zi-jing/RemoteGenius)|一个支持同步/异步控制的跨平台文件分发/远程控制软件|Early-Alpha 0.0.0.1|活跃|
+|[LightDesktop](https://github.com/zi-jing/LightDesktop)|一个主要用于希沃白板的简化教学工作的桌面软件|-|活跃|
 |[Evolution of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge/tree/1.16)|一个重现人类发展进程的大型Minecraft模组项目|Alpha 3.1.0.0|半活跃(其他人占主导)|
 |[CuckooLib](https://github.com/zi-jing/CuckooLib/tree/1.16)|供队内其他模组使用的通用库|3.1.2.0|半活跃(其他人占主导)|
 
