@@ -6,9 +6,9 @@
 
 |名称|描述|版本|开发状态|
 |:-:|:-:|:-:|:-:|
-|[LightDesktop](https://github.com/zi-jing/LightDesktop)|一个主要用于希沃白板的简化教学工作的桌面软件|-|活跃|
-|[Evolution of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge/tree/1.16)|一个重现人类发展进程的大型Minecraft模组项目|Alpha 3.1.0.0|半活跃(其他人占主导)|
-|[CuckooLib](https://github.com/zi-jing/CuckooLib/tree/1.16)|供队内其他模组使用的通用库|3.1.2.0|半活跃(其他人占主导)|
+|[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)|一个为希沃白板设计的桌面助手|-|活跃|
+|[Evolution of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge/tree/1.16)|一个重现人类发展进程的大型Minecraft模组项目|Alpha 3.1.0.0|不活跃|
+|[CuckooLib](https://github.com/zi-jing/CuckooLib/tree/1.16)|供队内其他模组使用的通用库|3.1.2.0|不活跃|
 
 # 联系我
 
