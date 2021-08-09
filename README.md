@@ -2,13 +2,13 @@
 ![zijing_233's Github Stats](https://github-readme-stats.vercel.app/api?username=zi-jing&show_icons=true&count_private=true&line_height=33.5)
 
 
-# 我正在进行的项目
+# 我正在开发的项目
 
 |名称|描述|版本|开发状态|
 |:-:|:-:|:-:|:-:|
 |[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)|一个为希沃白板设计的桌面助手|-|活跃|
-|[Evolution of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge/tree/1.16)|一个重现人类发展进程的大型Minecraft模组项目|Alpha 3.1.0.0|不活跃|
-|[CuckooLib](https://github.com/zi-jing/CuckooLib/tree/1.16)|供队内其他模组使用的通用库|3.1.2.0|不活跃|
+|[Evolution of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge/tree/1.16)|一个重现人类发展进程的大型Minecraft模组项目|Alpha 3.1.0.0|弃坑|
+|[CuckooLib](https://github.com/zi-jing/CuckooLib/tree/1.16)|供队内其他模组使用的通用库|3.1.2.0|弃坑|
 
 # 联系我
 
