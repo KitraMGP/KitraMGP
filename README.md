@@ -1,7 +1,7 @@
 ![zijing_233's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zi-jing&line_height=35&hide=visual%20basic)
 ![zijing_233's Github Stats](https://github-readme-stats.vercel.app/api?username=zi-jing&show_icons=true&count_private=true&line_height=33.5)
 
-我是一位音游糊糊人、Minecraft 玩家、长期咕咕的 up 主，偶尔写点烂尾项目，请各位椰叶多多指教。
+我是一位音游糊糊人、Minecraft 玩家，还是一位长期咕咕的 up 主，偶尔写点烂尾项目，请各位椰叶多多指教。
 
 # 我正在开发的项目
 
