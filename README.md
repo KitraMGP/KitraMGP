@@ -21,6 +21,10 @@
 
 Minecraft国际版ID: zijing_233
 
+Muse Dash: [Mx丶zijing](https://musedash.moe/player/68aaae00d4d746808eea9d509f1a7eaa)
+
+Steam: zijing_233
+
 哔哩哔哩: [zijing_233](https://space.bilibili.com/180371610)
 
 邮箱: zijing_233@foxmail.com
