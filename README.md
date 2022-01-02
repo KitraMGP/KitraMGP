@@ -7,9 +7,14 @@
 
 |名称|描述|版本|开发状态|
 |:-:|:-:|:-:|:-:|
-|[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)|一个为希沃白板设计的桌面助手|-|弃坑|
-|LightDeploy|程序自动化安装/部署工具(安装包生成器)||立项|
-|[MuseDashKeyDisplay](https://github.com/zi-jing/MuseDashKeyDisplay)|一个用来实时显示 Muse Dash 按键状态并计算按键速度的小工具, 也可用于其他音游|1.0.0-alpha(pre-release)|基本完成|
+|LightDeploy|次世代程序自动化安装/部署工具(安装包生成器)||立项|
+
+
+# 我弃坑/已完成的项目
+|名称|描述|版本|开发状态|
+|:-:|:-:|:-:|:-:|
+|[MuseDashKeyDisplay](https://github.com/zi-jing/MuseDashKeyDisplay)|一个用来实时显示 Muse Dash 按键状态并计算按键速度的小工具, 也可用于其他音游|1.1.0-alpha(pre-release)|基本完成|
+|[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)|一个为希沃白板设计的桌面助手|不存在|弃坑|
 
 
 # 联系我
