@@ -20,7 +20,7 @@
 |名称|描述|版本|开发状态|
 |:-:|:-:|:-:|:-:|
 |[MuseDashKeyDisplay](https://github.com/zi-jing/MuseDashKeyDisplay)|一个用来实时显示 Muse Dash 按键状态并计算按键速度的小工具, 也可用于其他音游|1.1.0-alpha(pre-release)|基本完成|
-|[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)|一个为希沃白板设计的桌面助手|不存在|因为弃坑了，所以已完成()|
+|~~[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)~~|~~一个为希沃白板设计的桌面助手~~|不存在|因为弃坑了，所以已完成()|
 
 
 # 联系我
