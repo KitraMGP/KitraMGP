@@ -35,6 +35,8 @@ Steam: zijing_233
 
 邮箱: zijing_233@foxmail.com
 
+Telegram: [KitraMGP](https://t.me/KitraMGP)
+
 <!--
 **zi-jing/zi-jing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
