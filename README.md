@@ -7,8 +7,11 @@
 
 |名称|描述|版本|开发状态|
 |:-:|:-:|:-:|:-:|
-|LightDeploy|次世代程序自动化安装/部署工具(安装包生成器)||立项|
-|Zesta|开源并免费的一款概念音乐游戏||立项/早期策划|
+|~~LightDeploy~~|~~次世代程序自动化安装/部署工具(安装包生成器)~~||~~立项~~|
+|~~Zesta~~|~~开源并免费的一款概念音乐游戏~~||~~立项/早期策划~~|
+
+## 什么东西，学业所迫暂时全部弃坑
+## 高考完了开新项目
 
 
 # 我弃坑/已完成的项目
@@ -22,7 +25,7 @@
 
 Minecraft国际版ID: zijing_233
 
-Muse Dash: [Mx丶zijing](https://musedash.moe/player/68aaae00d4d746808eea9d509f1a7eaa)
+Muse Dash: [KitraMGP](https://musedash.moe/player/68aaae00d4d746808eea9d509f1a7eaa)
 
 Steam: zijing_233
 
