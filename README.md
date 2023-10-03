@@ -1,5 +1,5 @@
-![KitraMGP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitraMGP&line_height=35&hide=visual%20basic)
-![KitraMGP's Github Stats](https://github-readme-stats.vercel.app/api?username=KitraMGP&show_icons=true&count_private=true&line_height=33.5)
+![KitraMGP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitraMGP&line_height=35&hide=visual%20basic&theme=tokyonight)
+![KitraMGP's Github Stats](https://github-readme-stats.vercel.app/api?username=KitraMGP&show_icons=true&count_private=true&line_height=33.5&theme=tokyonight)
 
 # KitraMGP
 
