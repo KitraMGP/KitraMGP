@@ -5,20 +5,19 @@
     color: white;
     font-family: 'Consolas';
     font-weight: 100;
-    font-size: 200%;
+    font-size: 110%;
     padding-left: 5%;
   }
 
   .red-white {
     background-color: red;
     color: white;
-}
+  }
 
-.blue {
+  .blue {
     color: lightskyblue;
-}
+  }
 
-.green {
-    background-color: rgb(7, 203, 7);
-    color: white;
-}
+  .green {
+    color: rgb(7, 203, 7);
+  }
