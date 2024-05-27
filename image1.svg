@@ -1,0 +1,51 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          .container {
+            width: 100%;
+            height: 300px;
+            background-color: black;
+            color: white;
+            font-family: 'Consolas';
+            font-weight: 100;
+            font-size: 110%;
+            padding-left: 5%;
+          }
+
+          .red-white {
+            background-color: red;
+            color: white;
+          }
+
+          .blue {
+            color: lightskyblue;
+          }
+
+          .green {
+            color: rgb(7, 203, 7);
+          }
+        </style>
+
+        <div class="container">
+          <br />
+          <span class="red-white">Unable to show this page</span>
+          <br />
+          <br />
+          <span class="blue">kitra is current available</span>
+          <br />
+          <br />
+          <span class="blue">If you are a visitor to this site, <br />please wait for a while and then try again.
+            <br />
+            <br />
+            If you are a friend of Kitra, try contacting him<br /> as soon as possible.
+          </span>
+          <span class="green">
+            <br />
+            <br />
+            No further information.
+          </span>
+        </div>
+      </div>
+    </foreignObject>
+  </svg>

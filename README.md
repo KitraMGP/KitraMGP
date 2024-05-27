@@ -1,23 +1,7 @@
-![KitraMGP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitraMGP&line_height=35&hide=visual%20basic&theme=tokyonight)
-![KitraMGP's Github Stats](https://github-readme-stats.vercel.app/api?username=KitraMGP&show_icons=true&count_private=true&line_height=33.5&theme=tokyonight)
 
-# KitraMGP
-
-我是一位音游糊糊人、Minecraft 玩家，还是一位长期咕咕的 up 主，偶尔写点烂尾项目，请各位椰叶多多指教。
-
-# 我正在开发的项目
-
-|名称|描述|版本|开发状态|
-|:-:|:-:|:-:|:-:|
-|损坏的！！||||
-|||||
-
-
-# 已完成的项目
-|名称|描述|版本|开发状态|
-|:-:|:-:|:-:|:-:|
-|损坏的！！||||
-
+<div style="width: 100%;">
+  <img src="image1.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 # 联系我
 
@@ -32,6 +16,8 @@ Steam: zijing_233
 邮箱: zijing_233@foxmail.com
 
 Telegram: [KitraMGP](https://t.me/KitraMGP)
+
+
 
 <!--
 **zi-jing/zi-jing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
