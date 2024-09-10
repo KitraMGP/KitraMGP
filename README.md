@@ -3,6 +3,16 @@
   <img src="image1.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+# Kitra
+
+一名大二学生，正在攻读计算机专业。
+
+
+# 正在开发的项目
+
+- QuickCheckin（私有仓库）
+
+
 # 联系我
 
 Minecraft国际版ID: zijing_233
