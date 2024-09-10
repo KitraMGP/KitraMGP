@@ -15,7 +15,7 @@
 
 # 联系我
 
-Minecraft国际版ID: zijing_233
+Minecraft国际版ID: ~zijing_233~ Natsu151
 
 Muse Dash: [KitraMGP](https://musedash.moe/player/68aaae00d4d746808eea9d509f1a7eaa)
 
