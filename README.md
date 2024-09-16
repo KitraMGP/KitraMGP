@@ -19,7 +19,7 @@
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |SeewoHelper(本地项目)|一个简单的高考倒计时软件|C#|.NET WPF|2022-2023|未来计划发布重制版|
-|[CuckooLib](https://github.com/KitraMGP/CuckooLib)|[EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge)模组所用到的公共代码库|Java|Forge(MC1.12.2和MC1.16.5)|2020-2021|停止维护❎|
+|[CuckooLib](https://github.com/KitraMGP/CuckooLib)|[EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge)模组用到的公共代码库|Java|Forge|2020-2021|停止维护❎|
 
 ## 不重要或者过时的项目
 <details summary="点击展开查看">
