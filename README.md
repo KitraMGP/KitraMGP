@@ -58,7 +58,7 @@ Steam: zijing_233
 
 哔哩哔哩: [KitraMGP](https://space.bilibili.com/180371610)
 
-邮箱: zijing_233@foxmail.com
+邮箱: zijing233@gmail.com
 
 Telegram: [KitraMGP](https://t.me/KitraMGP)
 
