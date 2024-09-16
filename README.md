@@ -12,7 +12,7 @@
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[QuickCheckin(私有仓库)](https://github.com/KitraMGP/QuickCheckin)|一个为教师打造的用于上课快速考勤的Android App|Java/Kotlin|Jetpack Compose|2024|开发中✅|
+|[QuickCheckin(私有仓库)](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的Android App|Java/Kotlin|Jetpack Compose|2024|开发中✅|
 
 ## 不活跃的项目
 
