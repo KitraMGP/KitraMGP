@@ -1,23 +1,29 @@
 .container {
-    width: 100%;
-    height: 300px;
-    background-color: black;
-    color: white;
-    font-family: 'Consolas';
-    font-weight: 100;
-    font-size: 110%;
-    padding-left: 5%;
-  }
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(to bottom right, #3366ff, #ff33cc);
+  color: white;
+  font-family: 'Consolas';
+  font-weight: 100;
+  font-size: 110%;
+  padding-left: 5%;
+}
 
-  .red-white {
-    background-color: red;
-    color: white;
-  }
+.red-white {
+  background-color: red;
+  color: white;
+}
 
-  .blue {
-    color: lightskyblue;
-  }
+.blue {
+  color: lightskyblue;
+}
 
-  .green {
-    color: rgb(7, 203, 7);
-  }
+.green {
+  color: rgb(7, 203, 7);
+}
+
+.blueonbackground {
+  color: #0099ff;
+  font-size: 160%;
+  font-weight: 200;
+}

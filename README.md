@@ -1,4 +1,10 @@
 
+# 横幅广告🎉
+
+<div style="width: 100%;">
+  <img src="image1.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 # 你好，我是Kitra😉
 
 一名大二学生，正在攻读计算机专业。
