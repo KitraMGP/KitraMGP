@@ -13,7 +13,7 @@
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[QuickCheckin(私有仓库)](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的Android App|Java/Kotlin|Jetpack Compose|2024|暂停开发❎|
-|[WindturbinesVisualization(私有仓库)](https://gitee.com/zi-jing/wind-turbine-data-visualization)|风电场数据可视化和分析平台(基于Grafana)|Typescript/Go|React/Grafana/Docker|2024|开发中✅|
+|[WindturbinesVisualization(私有仓库)](https://gitee.com/zi-jing/wind-turbine-data-visualization)|风电场数据可视化和分析平台(基于Grafana)|TypeScript/Go|React/Grafana/Docker|2024|开发中✅|
 
 ## 不活跃的项目
 
