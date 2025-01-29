@@ -7,7 +7,7 @@
 
 ## 技术总览
 
-我熟悉Java和Gradle构建工具，熟悉Swing界面开发和MyBatis框架，正在学习原生前端技术和前端框架，正在学习Golang，对于Java Web相关技术正在了解中。
+我熟悉Java和Gradle构建工具，熟悉Swing界面开发和MyBatis框架，正在学习原生前端技术和前端框架；我正在学习Golang，对于Java Web相关技术正在了解中。
 
 ## 技术历程
 
