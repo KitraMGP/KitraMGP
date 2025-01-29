@@ -5,7 +5,11 @@
 
 目前正在积累技术能力，有做全栈工程师和系统架构师的想法。
 
-熟悉Java和Gradle构建工具，熟悉Swing界面开发和MyBatis框架，对于Java Web相关技术正在了解中。
+## 技术总览
+
+我熟悉Java和Gradle构建工具，熟悉Swing界面开发和MyBatis框架，正在学习原生前端技术和前端框架，正在学习Golang，对于Java Web相关技术正在了解中。
+
+## 技术历程
 
 2018~2020高度参与Minecraft Mod开发，开始接触并熟悉Java及其构建工具，开始学习基础前端技术，初步接触类Unix系统(FreeBSD等)；
 
