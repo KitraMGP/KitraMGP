@@ -9,6 +9,37 @@
 
 我熟悉Java和Gradle构建工具，熟悉Swing界面开发和MyBatis框架，正在学习原生前端技术和前端框架；我正在学习Golang，对于Java Web相关技术正在了解中。
 
+编程语言：
+
+![Java Badge](https://img.shields.io/badge/Java-red?style=flat-square&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+框架：
+
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![CSS Modules Badge](https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+工作环境：
+
+![IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-9933FF?style=flat-square&logo=intellijidea&logoColor=white)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-9933FF?style=flat-square&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-red?style=flat-square&logoColor=white)
+![WSL Badge](https://img.shields.io/badge/WSL-red?style=flat-square&logoColor=white)
+
 ## 技术历程
 
 2018~2020高度参与Minecraft Mod开发，开始接触并熟悉Java及其构建工具，开始学习基础前端技术，初步接触类Unix系统(FreeBSD等)；
@@ -17,7 +48,9 @@
 
 2023进入大学，2024年年初精进了C语言(指针和内存操作)，学习了基础的数据结构；我在2024年夏天初步接触了Android开发(使用Java和Kotlin)，编写了一个学习项目(签到App)；我在数据库系统课程里系统学习了关系型数据库的操作、管理和设计，在课程设计项目里熟悉了Swing、Java反射和注解以及MyBatis技术，课设项目已开源；2024年秋至今(2025年初)，我在构建基于数据可视化平台Grafana、物联网时序数据库IoTDB的风场风力机状态监测与智能运维系统，与它相关的技术有React前端框架和TypeScript、Golang后端、Linux与Docker Compose。
 
-2025年上半年，我计划在完成上述正在进行的项目的同时，学习常用算法和数据结构，掌握原生前端开发技术(Bootstrap、jQuery)，熟悉Vue框架及相关工具，掌握Java Web相关的核心技术(SpringMVC、SpringBoot、MyBatis等)，继续学习Golang后端技术。
+2025年上半年，我计划在完成上述正在进行的项目的同时，学习常用算法和数据结构，掌握原生前端开发技术(Bootstrap、jQuery)，熟悉Vue、React框架及相关工具，掌握Java Web相关的核心技术(SpringMVC、SpringBoot、MyBatis等)，继续学习Golang后端技术。
+
+以后我可能会在闲暇时间学习Rust。
 
 
 # 我发起的项目
