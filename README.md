@@ -31,7 +31,7 @@
 ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-d5ab73?style=flat-square&logoColor=white)
+![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
 
 工作环境：
 
