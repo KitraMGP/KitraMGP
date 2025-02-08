@@ -23,22 +23,22 @@
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![CSS Modules Badge](https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white)
-![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
 
 工作环境：
 
 ![IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-9933FF?style=flat-square&logo=intellijidea&logoColor=white)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-9933FF?style=flat-square&logoColor=white)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-red?style=flat-square&logoColor=white)
 ![WSL Badge](https://img.shields.io/badge/WSL-red?style=flat-square&logoColor=white)
 
