@@ -45,13 +45,13 @@
 未来计划学习的：
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Nuxt Badge](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 
