@@ -14,9 +14,6 @@
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
-
 
 技术：
 
@@ -33,9 +30,11 @@
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
 
-不太熟悉的技术：
+未充分了解的技术：
 
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 
