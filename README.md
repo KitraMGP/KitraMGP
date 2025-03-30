@@ -20,6 +20,9 @@
 
 技术：
 
+![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -43,9 +46,6 @@
 
 未来计划学习的：
 
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![Alpine.js Badge](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
@@ -57,14 +57,15 @@
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目|Java|MySQL, MyBatis, Swing|2024|已完成🎉|
-|[QuickCheckin](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的App，安卓开发练习项目|Java/Kotlin|Jetpack Compose|2024|暂停开发❎|
 |[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场数据可视化和分析平台(基于Grafana)|TypeScript/Go|React/Grafana/Docker|2024-2025|开发中✅|
+|EasyWeibo|《高级Web技术》课程实验项目|Java/Vue/TypeScript|Vue3/Spring Boot/Element Plus|2025|开发中✅|
 
 ## 不活跃的项目
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |SeewoHelper(本地项目)|一个简单的高考倒计时软件|C#|.NET WPF|2022-2023|未来计划发布重制版|
+|[QuickCheckin](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的App，安卓开发练习项目|Java/Kotlin|Jetpack Compose|2024|暂停开发❎|
 |[CuckooLib](https://github.com/KitraMGP/CuckooLib)|[EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge)模组用到的公共代码库|Java|Forge|2020-2021|停止维护❎|
 
 ## 不重要或者过时的项目
