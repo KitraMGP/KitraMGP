@@ -28,13 +28,16 @@
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![IoTDB Badge](https://img.shields.io/badge/IoTDB-923275?style=flat-square&logoColor=white)
 ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![CSS Modules Badge](https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
+
+不太熟悉的技术：
+
 ![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
+
 
 工作环境：
 
@@ -46,7 +49,6 @@
 
 未来计划学习的：
 
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 
