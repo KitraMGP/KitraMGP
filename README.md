@@ -57,7 +57,7 @@
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目|Java|MySQL, MyBatis, Swing|2024|已完成🎉|
+|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java桌面软件）|Java|MySQL, MyBatis, Swing|2024|已完成🎉|
 |[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场数据可视化和分析平台(基于Grafana)|TypeScript/Go|React/Grafana/Docker|2024-2025|开发中✅|
 |EasyWeibo|《高级Web技术》课程实验项目|Java/Vue/TypeScript|Vue3/Spring Boot/Element Plus|2025|开发中✅|
 
