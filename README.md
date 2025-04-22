@@ -59,7 +59,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java桌面软件）|Java|MySQL, MyBatis, Swing|2024|已完成🎉|
 |[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场数据可视化和分析平台(基于Grafana)|TypeScript/Go|React/Grafana/Docker|2024-2025|开发中✅|
-|EasyWeibo|《高级Web技术》课程实验项目|Java/Vue/TypeScript|Vue3/Spring Boot/Element Plus|2025|开发中✅|
+|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|《高级Web技术》课程实验项目|Java/Vue/TypeScript|Vue3/Spring Boot/Element Plus|2025|开发中✅|
 |[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|-|2025|编写中✅|
 
 ## 不活跃的项目
