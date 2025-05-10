@@ -62,7 +62,7 @@ QQ：3056894830
 未来计划学习的：
 
 
-Spring Cloud、Kafka、RabbitMQ、Dubbo、Netty、Express(Node.js的Web框架)、Next.js、Tailwind CSS、Linux 应用开发、深度学习(pytorch)、Arch Linux、NixOS
+Spring Cloud、Shiro、Kafka、RabbitMQ、微服务、各种RPC框架(如Dubbo)、Java网络编程(Netty)、TypeScript全栈(Express和Next.js等)、Golang的继续精进、Tailwind CSS、POSIX API、深度学习(pytorch)、Arch Linux、NixOS
 ……太多了列不出来啦！
 
 # 我发起的项目
