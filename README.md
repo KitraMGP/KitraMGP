@@ -3,11 +3,21 @@
 
 一名大二学生，正在攻读计算机专业。
 
-目前正在积累技术能力，有做全栈工程师和系统架构师的想法。
+我熟悉 Web 开发，也比较了解嵌入式开发（单片机和 FPGA 都有接触），正在积累技术能力，日常活动是打 Minecraft/七日杀/音游、做有趣的软件/硬件、学习编曲，梦想是做系统架构师。
+
+我在很久之前开始制作 Minecraft 模组和一些简单的小软件，这是我技术学习的开始。
 
 HNUSTCS！目前正在湖南科技大学就读，随时等待各路大佬同学前来技术交流和扩列awa
 
 QQ：3056894830
+
+
+## 我目前的情况
+
+学业上，最近在做工业大数据方面的科研性项目，涉及到高性能系统的架构设计和时序数据库。
+
+私下，我在进一步学习 Web 技术，并在学习更多的嵌入式技术。
+
 
 ## 技术总览
 
@@ -24,7 +34,7 @@ QQ：3056894830
 ![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![IoTDB Badge](https://img.shields.io/badge/IoTDB-923275?style=flat-square&logoColor=white)
@@ -41,7 +51,6 @@ QQ：3056894830
 ![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-
 工作环境：
 
 ![IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-9933FF?style=flat-square&logo=intellijidea&logoColor=white)
@@ -52,8 +61,9 @@ QQ：3056894830
 
 未来计划学习的：
 
-![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
+Spring Cloud、Kafka、RabbitMQ、Dubbo、Netty、Express(Node.js的Web框架)、Next.js、Tailwind CSS、Linux 应用开发、深度学习(pytorch)、Arch Linux、NixOS
+……太多了列不出来啦！
 
 # 我发起的项目
 
