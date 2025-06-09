@@ -75,7 +75,7 @@ QQ：3056894830
 |[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场数据可视化和分析平台(基于Grafana)|TypeScript/Go|React/Grafana/Docker|2024-2025|开发中✅|
 |[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|《高级Web技术》课程实验项目|Java/Vue/TypeScript|Vue3/Spring Boot/Element Plus|2025|开发中✅|
 |[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|-|2025|编写中✅|
-|[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Web在线聊天应用，意在学习高性能聊天系统架构|Java/Vue/TypeScript|Vue3/Spring Boot/PostgreSQL/MinIO|2025|开发中✅|
+|[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，意在学习高性能聊天系统架构|Java/Vue/TypeScript|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|开发中✅|
 
 ## 不活跃的项目
 
