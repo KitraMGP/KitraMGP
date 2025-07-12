@@ -74,23 +74,27 @@ QQ：3056894830
 |[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，学习实现高性能可扩展的即时聊天架构|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|慢速开发中💭|
 |[IoTContest-IntelligentParking(私有仓库)](https://github.com/KitraMGP/IoTContest-IntelligentParking)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/涂鸦智能云平台/Taro/Vue|2025|开发中✅|
 |[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|Grafana/IoTDB/SpringCloud/React|2024-2025|慢速开发中💭|
-|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|《高级Web技术》课程实验项目|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
+|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|一个简易的在线社交平台，是《高级Web技术》课程实验项目|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
 |[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|2025|慢速编写中💭|
-|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java桌面软件）|MySQL, MyBatis, Swing|2024|已完成🎉|
 
 ## 不活跃的项目
 
+### 长期搁置的项目
+
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java Swing桌面软件）|MySQL, MyBatis, Swing|2024|已完成🎉|
 |SeewoHelper(本地项目)|一个简单的高考倒计时软件|C#|.NET WPF|2022-2023|未来计划发布重制版|
-|[QuickCheckin](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的App，安卓开发练习项目|Java/Kotlin|Jetpack Compose|2024|半成品-放弃开发❎|
-|[CuckooLib](https://github.com/KitraMGP/CuckooLib)|[EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge)模组用到的公共代码库|Java|Forge|2020-2021|停止维护❎|
 
-## 不重要或者过时的项目
+
+### 过时的项目和废弃的项目（包含上大学之前的项目、包含Minecraft开发相关项目、安卓软件、Python桌面软件和.NET软件）
+
 <details summary="点击展开查看">
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
+|[QuickCheckin](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的App，安卓开发练习项目|Java/Kotlin|Jetpack Compose|2024|半成品-放弃开发❎|
+|[CuckooLib](https://github.com/KitraMGP/CuckooLib)|[EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge)模组用到的公共代码库|Java|Forge|2020-2021|停止维护❎|
 |[MuseDashKeyDisplay](https://github.com/KitraMGP/MuseDashKeyDisplay)|一个用来显示Muse Dash键位状态并显示按键速度的简易程序|C#|.NET WPF|2022|停止维护❎|
 |[LightCalendar](https://github.com/KitraMGP/LightCalendar)|一个用于应付学校Python实践比赛的简易日历软件|Python 3|TKinter|2021|停止维护❎|
 |[tsrg2srg](https://github.com/KitraMGP/tsrg2srg)|一个用来将TSRG映射表转换为SRG映射表的简易程序(用于Minecraft开发)|Java|-|2020|停止维护❎|
