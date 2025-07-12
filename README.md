@@ -69,14 +69,14 @@ QQ：3056894830
 
 ## 星标项目
 
-|项目名称|描述|编程语言|主要技术|年份|状态|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，意在学习高性能聊天系统架构|Java/Vue/TypeScript|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|慢速开发中💭|
-|[IoTContest-IntelligentParking(私有仓库)](https://github.com/KitraMGP/IoTContest-IntelligentParking)|全国大学生物联网设计竞赛项目（项目开发中）|C/Java/TypeScript|STM32/涂鸦智能/Taro/Vue|2025|开发中✅|
-|[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|TypeScript/Go|Grafana/IoTDB/SpringCloud/React|2024-2025|慢速开发中💭|
-|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|《高级Web技术》课程实验项目|Java/Vue/TypeScript|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
-|[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|-|2025|慢速编写中💭|
-|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java桌面软件）|Java|MySQL, MyBatis, Swing|2024|已完成🎉|
+|项目名称|描述|主要技术|年份|状态|
+|:---:|:---:|:---:|:---:|:---:|
+|[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，学习实现高性能可扩展的即时聊天架构|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|慢速开发中💭|
+|[IoTContest-IntelligentParking(私有仓库)](https://github.com/KitraMGP/IoTContest-IntelligentParking)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/涂鸦智能云平台/Taro/Vue|2025|开发中✅|
+|[WindturbinesVisualization(私有仓库)](https://github.com/KitraMGP/WindTurbineDataVisualization)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|Grafana/IoTDB/SpringCloud/React|2024-2025|慢速开发中💭|
+|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|《高级Web技术》课程实验项目|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
+|[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|2025|慢速编写中💭|
+|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java桌面软件）|MySQL, MyBatis, Swing|2024|已完成🎉|
 
 ## 不活跃的项目
 
