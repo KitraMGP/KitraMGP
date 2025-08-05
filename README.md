@@ -29,27 +29,27 @@ QQ：3056894830
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
-技术：
+常用技术：
 
 ![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Docker Compose Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![IoTDB Badge](https://img.shields.io/badge/IoTDB-923275?style=flat-square&logoColor=white)
-![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
 
-未充分了解的技术：
+有一定了解的技术：
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 工作环境：
 
@@ -62,7 +62,7 @@ QQ：3056894830
 未来计划学习的：
 
 
-**Rust**、Spring Cloud、Shiro、Kafka、RabbitMQ、微服务、各种RPC框架(如Dubbo)、Java网络编程(Netty)、TypeScript全栈(Express和Next.js等)、Golang的继续精进、Tailwind CSS、POSIX API、深度学习(pytorch)、Arch Linux、NixOS
+**Rust**、Spring Cloud、Spring Secutity、Shiro、Kafka、RabbitMQ、微服务、各种RPC框架(如Dubbo)、Java网络编程(Netty)、TypeScript全栈(Express和Next.js等)、Golang的继续精进、Tailwind CSS、POSIX API、深度学习(pytorch)、Arch Linux、NixOS
 ……太多了列不出来啦！
 
 # 我发起的项目
