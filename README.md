@@ -71,10 +71,10 @@ QQ：3056894830
 
 |项目名称|描述|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|
-|[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，学习实现高性能可扩展的即时聊天架构|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|慢速开发中💭|
-|IoTContest-IntelligentParking(私有仓库)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/涂鸦智能云平台/Taro/Vue|2025|开发中✅|
-|WindturbinesVisualization(私有仓库)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|Grafana/IoTDB/SpringCloud/React|2024-2025|慢速开发中💭|
-|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|一个简易的在线社交平台，是《高级Web技术》课程实验项目|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
+|[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，学习实现高性能可扩展的即时聊天架构|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|日后将进行升级💭|
+|IoTContest-IntelligentParking(私有仓库)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/涂鸦智能云平台/Taro/Vue|2025|暂停开发|
+|WindturbinesVisualization(私有仓库)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|Grafana/IoTDB/SpringCloud/React|2024-2025|开发中💭|
+|[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|一个简易的在线社交平台，是《高级Web技术》课程实验项目。可用Docker运行。|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
 |[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|2025|慢速编写中💭|
 
 ## 不活跃的项目
@@ -83,7 +83,7 @@ QQ：3056894830
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java Swing桌面软件）|MySQL, MyBatis, Swing|2024|已完成🎉|
+|[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java Swing桌面软件）|   Java   | MySQL, MyBatis, Swing |   2024    |已完成🎉|
 |SeewoHelper(本地项目)|一个简单的高考倒计时软件|C#|.NET WPF|2022-2023|未来计划发布重制版|
 
 
@@ -93,7 +93,7 @@ QQ：3056894830
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[QuickCheckin](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的App，安卓开发练习项目|Java/Kotlin|Jetpack Compose|2024|半成品-放弃开发❎|
+|[QuickCheckin](https://github.com/KitraMGP/QuickCheckin)|帮助教师上课查到的App，是安卓开发练习项目|Java/Kotlin|Jetpack Compose|2024|半成品-放弃开发❎|
 |[CuckooLib](https://github.com/KitraMGP/CuckooLib)|[EOK](https://github.com/gonggongjohn/Evolution-Of-Knowledge)模组用到的公共代码库|Java|Forge|2020-2021|停止维护❎|
 |[MuseDashKeyDisplay](https://github.com/KitraMGP/MuseDashKeyDisplay)|一个用来显示Muse Dash键位状态并显示按键速度的简易程序|C#|.NET WPF|2022|停止维护❎|
 |[LightCalendar](https://github.com/KitraMGP/LightCalendar)|一个用于应付学校Python实践比赛的简易日历软件|Python 3|TKinter|2021|停止维护❎|
@@ -102,6 +102,7 @@ QQ：3056894830
 |[CuckooGradle](https://github.com/KitraMGP/CuckooGradle)|用于将组件发布到[CuckooMaven](https://github.com/KitraMGP/cuckoo-maven)的Gradle插件|Java|Gradle API|2020|停止维护❎|
 |[cuckoo-maven](https://github.com/KitraMGP/cuckoo-maven)|用Github Pages实现的Maven仓库，包含了一个比较漂亮的仓库主页|HTML/CSS/JS|-|2020|停止维护❎|
 |[LotteryMachine](https://github.com/KitraMGP/LotteryMachine)|一个向游戏中添加抽奖功能的Minecraft模组，使用命令抽奖，抽奖过程有粒子效果特效|Java|Forge(MC1.14.4)|2020|停止维护❎|
+
 </details>
 
 
