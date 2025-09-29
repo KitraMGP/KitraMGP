@@ -57,7 +57,9 @@ QQ：3056894830
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-9933FF?style=flat-square&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-red?style=flat-square&logoColor=white)
-![WSL Badge](https://img.shields.io/badge/WSL-red?style=flat-square&logoColor=white)
+![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
+
+<!-- ![WSL Badge](https://img.shields.io/badge/WSL-red?style=flat-square&logoColor=white) -->
 
 未来计划学习的：
 
