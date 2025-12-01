@@ -21,15 +21,13 @@ QQ：3056894830
 
 ## 技术总览
 
-编程语言：
-
+编程语言：<br>
 ![Java Badge](https://img.shields.io/badge/Java-red?style=flat-square&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
-常用技术：
-
+常用技术：<br>
 ![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
@@ -41,8 +39,7 @@ QQ：3056894830
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
 
-有一定了解的技术：
-
+有一定了解的技术：<br>
 ![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
@@ -51,20 +48,20 @@ QQ：3056894830
 ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-工作环境：
-
+工作环境：<br>
+![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
+![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-red?style=flat-square&logoColor=white)
 ![IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-9933FF?style=flat-square&logo=intellijidea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-9933FF?style=flat-square&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
-![Windows Badge](https://img.shields.io/badge/Windows-red?style=flat-square&logoColor=white)
-![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
+
+> BTW I use Arch! 😋<br>
+> 我使用 Arch Linux + KDE + Wayland 进行日常开发
 
 <!-- ![WSL Badge](https://img.shields.io/badge/WSL-red?style=flat-square&logoColor=white) -->
 
-未来计划学习的：
-
-
-**Rust**、Spring Cloud、Spring Secutity、Shiro、Kafka、RabbitMQ、微服务、各种RPC框架(如Dubbo)、Java网络编程(Netty)、TypeScript全栈(Express和Next.js等)、Golang的继续精进、Tailwind CSS、POSIX API、深度学习(pytorch)、Arch Linux、NixOS
+未来计划学习的：<br>
+**Rust**、Spring Cloud、Spring Secutity、Shiro、Kafka、RabbitMQ、微服务、各种RPC框架(如Dubbo)、Java网络编程(Netty)、TypeScript全栈(Express和Next.js等)、Golang的继续精进、Tailwind CSS、POSIX API、深度学习(pytorch)、
 ……太多了列不出来啦！
 
 # 我发起的项目
