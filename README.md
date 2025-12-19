@@ -23,9 +23,14 @@ QQ：3056894830
 
 编程语言：<br>
 ![Java Badge](https://img.shields.io/badge/Java-red?style=flat-square&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)（嵌入式）
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)（编写工具脚本）
+
+将要学习：<br>
+![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
 
 常用技术：<br>
 ![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -35,9 +40,9 @@ QQ：3056894830
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![IoTDB Badge](https://img.shields.io/badge/IoTDB-923275?style=flat-square&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Forge Badge](https://img.shields.io/badge/Minecraft%20Forge-b07b35?style=flat-square&logoColor=white)
+<!-- ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) -->
 
 有一定了解的技术：<br>
 ![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
