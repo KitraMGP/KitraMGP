@@ -76,6 +76,7 @@ QQ：3056894830
 
 |项目名称|描述|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|
+|[ComputerNetworkCourseDesign](https://github.com/KitraMGP/ComputerNetworkCourseDesign)|本人的《计算机网络》课程设计项目（基于C/C++/Qt6，其中最具代表性的实验是一个HTTP服务器的实现）|   C，C++   | Qt6 |   2026    |已完成，后期考虑对HTTP服务器项目进行重制升级🎉|
 |[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，学习实现高性能可扩展的即时聊天架构|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|日后将进行升级💭|
 |IoTContest-IntelligentParking(私有仓库)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/Spring Boot/涂鸦智能云平台/Taro/Vue|2025|暂停开发|
 |WindturbinesVisualization(私有仓库)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|Grafana/Spring Boot/IoTDB/gRPC/React|2024-2025|开发中💭|
@@ -88,7 +89,6 @@ QQ：3056894830
 
 |项目名称|描述|编程语言|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[ComputerNetworkCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《计算机网络》课程设计项目（基于C/C++/Qt6，其中包含一个HTTP服务器的实现）|   C，C++   | Qt6 |   2026    |已完成🎉|
 |[DatabaseCourseDesign](https://github.com/KitraMGP/DatabaseCourseDesign)|本人的《数据库系统》课程设计项目（Java Swing桌面软件）|   Java   | MySQL, MyBatis, Swing |   2024    |已完成🎉|
 |SeewoHelper(本地项目)|一个简单的高考倒计时软件|C#|.NET WPF|2022-2023|未来计划发布重制版|
 
