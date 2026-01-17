@@ -28,6 +28,7 @@ QQ：3056894830
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)（嵌入式）
+![C++ Badge](https://img.shields.io/badge/C++-a64dff?style=flat-square&logo=cplusplus&logoColor=white)（Qt）
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)（编写工具脚本）
 
 将要学习：<br>
@@ -37,6 +38,8 @@ QQ：3056894830
 常用技术：<br>
 ![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Docker Compose Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -50,7 +53,6 @@ QQ：3056894830
 ![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
