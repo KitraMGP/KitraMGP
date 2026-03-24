@@ -23,24 +23,16 @@ QQ：3056894830
 
 ## 技术总览
 
-编程语言：<br>
-![Java Badge](https://img.shields.io/badge/Java-red?style=flat-square&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-a64dff?style=flat-square&logoColor=white)（嵌入式）
-![C++ Badge](https://img.shields.io/badge/C++-a64dff?style=flat-square&logo=cplusplus&logoColor=white)（Qt）
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)（编写工具脚本）
-
-将要学习：<br>
-![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-
 常用技术：<br>
-![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Docker Compose Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman Badge](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=docker&logoColor=white)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![IoTDB Badge](https://img.shields.io/badge/IoTDB-923275?style=flat-square&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -50,16 +42,11 @@ QQ：3056894830
 有一定了解的技术：<br>
 ![C# Badge](https://img.shields.io/badge/C%23-FF3333?style=flat-square&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 工作环境：<br>
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)
-![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-red?style=flat-square&logoColor=white)
-![IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-9933FF?style=flat-square&logo=intellijidea&logoColor=white)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-9933FF?style=flat-square&logoColor=white)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-9933FF?style=flat-square&logoColor=white)
+![IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-9933FF?style=flat-square&logo=intellijidea&logoColor=white)
 
 > BTW I use Arch! 😋<br>
 > 我使用 Arch Linux + KDE + Wayland 进行日常开发
@@ -67,8 +54,7 @@ QQ：3056894830
 <!-- ![WSL Badge](https://img.shields.io/badge/WSL-red?style=flat-square&logoColor=white) -->
 
 未来计划学习的：<br>
-**Rust**、Spring Cloud、Spring Secutity、Shiro、Kafka、RabbitMQ、微服务、各种RPC框架(如Dubbo)、Java网络编程(Netty)、TypeScript全栈(Express和Next.js等)、Golang的继续精进、Tailwind CSS、POSIX API、深度学习(pytorch)、
-……太多了列不出来啦！
+**Rust**、FreeRTOS、大模型应用、深度学习等...
 
 # 我发起的项目
 
@@ -76,9 +62,10 @@ QQ：3056894830
 
 |项目名称|描述|主要技术|年份|状态|
 |:---:|:---:|:---:|:---:|:---:|
-|[ComputerNetworkCourseDesign](https://github.com/KitraMGP/ComputerNetworkCourseDesign)|本人的《计算机网络》课程设计项目（基于C/C++/Qt6，其中最具代表性的实验是一个HTTP服务器的实现）|   C，C++   | Qt6 |   2026    |已完成，后期考虑对HTTP服务器项目进行重制升级🎉|
+|[SoftwareEngineeringCourseDesign](https://github.com/KitraMGP/SoftwareEngineeringCourseDesign)|软件工程课程设计，实现了一个基于大模型的知识库问答系统|Golang, Vue3, Tailwind CSS|2026|已完成|
+|[ComputerNetworkCourseDesign](https://github.com/KitraMGP/ComputerNetworkCourseDesign)|本人的《计算机网络》课程设计项目（基于C/C++/Qt6，其中最具代表性的实验是一个HTTP服务器的实现）|C，C++|2026|已完成，后期考虑对HTTP服务器项目进行重制升级🎉|
 |[AwaChatNext](https://github.com/KitraMGP/AwaChatNext)|Java实现的Web在线聊天应用，学习实现高性能可扩展的即时聊天架构|Vue3/Spring Boot/WebSocket/PostgreSQL/MinIO|2025|日后将进行升级💭|
-|IoTContest-IntelligentParking(私有仓库)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/Spring Boot/涂鸦智能云平台/Taro/Vue|2025|暂停开发|
+|IoTContest-IntelligentParking(私有仓库)|全国大学生物联网设计竞赛项目（项目开发中）|STM32/Spring Boot/Taro/Vue|2025|暂停开发|
 |WindturbinesVisualization(私有仓库)|风电场全状态监测与智能运维系统(基于IoTDB和Grafana)|Grafana/Spring Boot/IoTDB/gRPC/React|2024-2025|开发中💭|
 |[EasyWeibo](https://github.com/KitraMGP/ModernWebExperiment-EasyWeibo)|一个简易的在线社交平台，是《高级Web技术》课程实验项目。可用Docker运行。|Vue3/Spring Boot/Element Plus|2025|已完成🎉|
 |[ModernWeb-Guides](https://github.com/KitraMGP/ModernWeb-Guides)|《高级Web技术》实验和课设指南（自制教程）|-|2025|慢速编写中💭|
@@ -120,7 +107,7 @@ QQ：3056894830
 
 # 联系我
 
-Minecraft国际版ID: ~~zijing_233~~ Natsu51
+Minecraft国际版ID: KitraMGP
 
 Muse Dash: [KitraMGP](https://musedash.moe/player/68aaae00d4d746808eea9d509f1a7eaa)
 
